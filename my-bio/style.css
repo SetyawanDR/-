@@ -7,7 +7,7 @@
 
 body {
     min-height: 100vh;
-    /* Ini memanggil foto latar belakangmu, pastikan namanya background.gif */
+    /* Ini untuk foto latar belakangmu, pastikan namanya background.gif */
     background-image: url('background.gif');
     background-size: cover;
     background-position: center;
@@ -128,7 +128,6 @@ body {
 }
 
 /* Bagian Pemutar Musik */
-/* Bagian Pemutar Musik Baru */
 .music-player-v2 {
     display: flex;
     align-items: center;
